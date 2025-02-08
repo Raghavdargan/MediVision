@@ -8,6 +8,7 @@ This project focuses on enhancing low-resolution medical images using Super-Reso
 - Assist physicians in making accurate diagnoses by restoring details in low-resolution images.
 - Provide an alternative to expensive imaging equipment for underfunded or remote medical facilities.
 
+
 ## Dataset
 - A total of **5,712 MRI brain images** were used.
 - Images were divided into:
@@ -31,4 +32,7 @@ This project focuses on enhancing low-resolution medical images using Super-Reso
 - High **SSIM and PSNR scores** confirmed the effectiveness of the method.
 - Testing demonstrated reliable high-resolution outputs across varied conditions.
 - The project contributes to **improving diagnostic accuracy in remote healthcare facilities**.
+
+![MRI Sample](https://github.com/Raghavdargan/MediVision/blob/main/Result.png)
+
 
